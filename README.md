@@ -1,2 +1,2 @@
 # Proyecto
-Plataforma de Control Financiero Empresarial
+Plataforma de Control Financiero Comercial.
